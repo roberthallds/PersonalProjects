@@ -1,2 +1,2 @@
 # PersonalProjects
-An aggregative repository for all personal projects I've done
+An aggregative repository for some of the personal projects I've done.
