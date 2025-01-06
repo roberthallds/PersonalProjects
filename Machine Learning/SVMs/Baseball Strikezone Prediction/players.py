@@ -14,9 +14,9 @@
 # 01/06/2025
 # ------------------------------------------
 
-import matplotlib.pyplot as plt
-from sklearn.svm import SVC
-from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt # type: ignore
+from sklearn.svm import SVC # type: ignore
+from sklearn.model_selection import train_test_split # type: ignore
 from svm_visualization import draw_boundary
 from players import aaron_judge
 
